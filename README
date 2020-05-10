@@ -1,7 +1,10 @@
 
-1. Modify or add
+1. Modify or add/delete files.
 2. git add .
 3. git commit -m "message"
 4. git push
 
 note: use "git status" to see status at any time.
+note: use one of the following commands to clone this project.
+      git clone https://github.com/hbmin/sample.git
+      git clone git@github.com:hbmin/sample.git
