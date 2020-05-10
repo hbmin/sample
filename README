@@ -1,0 +1,7 @@
+
+1. Modify or add
+2. git add .
+3. git commit -m "message"
+4. git push
+
+note: use "git status" to see status at any time.
