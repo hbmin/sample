@@ -7,7 +7,7 @@ To craete a new repository "myproject",
    cd myproject
    git init
 3. Perform steps 1 ~ 3 of the section "To add/delete/modify files..." below.
-4. Create a new remote repository at https://github.com/<account-name>.
+4. Create a new remote repository at github.com.
    Click on "Repository" to build a new one. 
 5. Register remote repository whose name is "origin" with url "git@github...".
    git remote add origin git@github.com:hbmin/myproject.git
