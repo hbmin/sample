@@ -1,4 +1,5 @@
 
-sample.txt in sampe project.
+sample.txt in sample project.
 modified on May 11.
+modified again on June 30.
 
