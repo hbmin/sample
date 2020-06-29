@@ -1,4 +1,16 @@
 
+To craete a new repository,
+
+1. Create a local folder (git repository) for a new project, i.e.,
+   mkdir myproject
+2. Initialize the git repository
+   cd myproject
+   git init
+3. Continue the following task.
+
+
+To add/delete/modify files in the project,
+
 1. Modify or add/delete files.
 2. git add .
 3. git commit -m "message"
