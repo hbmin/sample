@@ -1,5 +1,6 @@
 
 sample.txt in sample project.
-modified on May 11.
-modified again on June 30.
+modified on May 11, 2020.
+modified again on June 30, 2020.
+modified again on Jan 30, 2021.
 
